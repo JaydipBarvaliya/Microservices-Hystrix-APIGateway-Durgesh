@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc53d0be-c2b6-42cd-8966-1b48abff160b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../apigateway/src/main/java/com/apigateway/FallBackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hys-dashboard/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/src/main/java/com/apigateway/APIGatewayApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/src/main/java/com/apigateway/Controller/FallbackController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API GATEWAY/src/test/java/com/apigateway/ApigatewayApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/src/main/java/com/apigateway/Controller/FallbackController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/src/main/java/com/apigateway/MainAppAPIGateway.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apigateway/src/test/java/com/apigateway/APIGatewayApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contact_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../contact_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/src/main/java/com/eserver/MainAppEurekaServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e_server/src/test/java/com/eserver/EServerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user/controller/UserController.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc53d0be-c2b6-42cd-8966-1b48abff160b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +77,7 @@
       <workItem from="1676332200631" duration="698000" />
       <workItem from="1676338323287" duration="939000" />
       <workItem from="1676339280978" duration="11299000" />
-      <workItem from="1676765095760" duration="6212000" />
+      <workItem from="1676765095760" duration="6216000" />
     </task>
     <servers />
   </component>
