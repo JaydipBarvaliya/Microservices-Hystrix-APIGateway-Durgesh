@@ -23,12 +23,12 @@ public class UserController {
     private final UserService userService;
 
     private final RestTemplate restTemplate;
-    private final WebClient.Builder webClientBuilder;
+//    private final WebClient.Builder webClientBuilder;
 
     public UserController(UserService userService, RestTemplate restTemplate, WebClient.Builder webClientBuilder) {
         this.userService = userService;
         this.restTemplate = restTemplate;
-        this.webClientBuilder = webClientBuilder;
+//        this.webClientBuilder = webClientBuilder;
     }
 
     @GetMapping("/{userId}")
